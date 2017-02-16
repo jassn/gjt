@@ -1,0 +1,17 @@
+Hello,
+
+As mentioned on our call, our intention was for the EVO system to be able to connect to an Internet-enabled access point using Client Mode. 
+After some testing and use, VHC believes that the current implementation is more like a WiFi Bridge Mode instead. 
+This would be OK, except that the Internet data throughput is typically limited greatly in Bridge Mode. 
+
+
+We did a quick test and found that we were getting about 100MB/s download speeds when directly connected to the WiFi network in Orlando. 
+Once we connected the EVO system to the same WiFi network, we got around 7MB/s download speeds. Maybe this is OK, as we have not really seen issues using Slingplayer, but we want to make sure that we have this set up optimally.
+
+1. In Client Mode, the EVO system would become a node on the vehicle’s hotspot and therefore the user would connect their mobile device to the vehicle’s hotspot and get access to data as well as the features of the EVO Mobile app, while also being able to access Slingplayer on the EVO system.
+
+2. With Bridge mode, the EVO system is acting as a bridge from the vehicle’s hotspot and the user would connect to the EVO access point and would be able to use the EVO mobile, get data from the vehicle hotspot, and get data to use Slingplayer on the EVO system all with limited throughput.
+
+Ideally, a user would connect to the vehicle’s hotspot and get the full throughput and also this would help possibly avoid confusion over data usage, since the user would be directly connected to the hotspot. Can Jasmin/JET confirm/explain which mode we are currently using and if we should look at changing the mode.
+
+
