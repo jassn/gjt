@@ -1,6 +1,13 @@
 ###
 
 
+### News
+* [WiLink 8 - User's Guide] (http://www.ti.com/lit/ug/swru423a/swru423a.pdf)
+
+* [Throughput test] (http://processors.wiki.ti.com/index.php/WLAN_Throughput_Test)
+
+
+
 
 
 
@@ -24,6 +31,8 @@
 
 * [an easy stone] (http://www.aneasystone.com/archives/2016/08/wireless-analysis-one-monitoring.html)
 
+
+### Useful course
 
 * [network lab manual] (http://sandilands.info/sgordon/teaching/netlab/its332.html#its332ch3.html)
 
