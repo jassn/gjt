@@ -2,6 +2,9 @@
 
 
 ### News
+
+* [WiLink 8 - wlconf] (http://www.ti.com/lit/an/swra489/swra489.pdf)
+
 * [WiLink 8 - User's Guide] (http://www.ti.com/lit/ug/swru423a/swru423a.pdf)
 
 * [Throughput test] (http://processors.wiki.ti.com/index.php/WLAN_Throughput_Test)
