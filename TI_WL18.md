@@ -12,6 +12,16 @@
 
 
 
+### DFS (Dynamic Frequency Selection) - keyword: wl18 dfs
+* [WL18 Driver Debug] (http://processors.wiki.ti.com/index.php/WL18xx_Driver_Debug)
+
+* [AP DFS Master] (http://processors.wiki.ti.com/index.php/WiLink8_Feature_Guide/AP_DFS_Master)
+
+* [Forum] (http://e2e.ti.com/support/wireless_connectivity/wilink_wifi_bluetooth/f/307/p/492490/1780180)
+
+* [DFS - OpenWRT] (https://wiki.openwrt.org/doc/techref/dfs)
+
+
 
 
 ### Test for TI WL18xx

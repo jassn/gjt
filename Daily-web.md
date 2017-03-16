@@ -7,16 +7,99 @@
 
 
 
+# 2017-3-16
+### google: 8 linux command wireless
+
+
+### google: ti wl18 dfs
+* [TI WL18 overview] (http://processors.wiki.ti.com/index.php/WL18xx_Overview)
+
+* [TI DFS] (http://processors.wiki.ti.com/index.php/WiLink8_Feature_Guide/AP_DFS_Master)
+
+
+* [wifi DFS test] (http://wenku.baidu.com/view/e7913617a66e58fafab069dc5022aaea998f4123.html?re=view)
+
+
+### atheros, google "ar6003 driver"
+http://linuxwireless.org/en/developers/Documentation/Glossary/#FullMAC
+
+https://developer.ridgerun.com/wiki/index.php/Atheros_AR6003_SDIO_WiFi_Integration
+
+
+http://berniechenopenvpn.blogspot.tw/2015/05/wg7833-ubuntu.html
+
+
+
+
+
+
+
+
+
+# 2017-3-15
+
+### Wifi DFS
+* [dfs] (http://tc.wangchao.net.cn/bbs/detail_2004455.html)
+
+* [dfs frequency - NCC] (http://www.techbang.com/posts/13944-wi-fi-5ghz-do-you-support)
+
+* [dfs] (http://www.techbang.com/posts/24359-open-from-the-3-band-wireless-router-5ghz)
+
+
+
+
+
+
+
+
 # 2017-3-14
+
+
+### Atheros AR6003
+* [AR6003] (https://developer.ridgerun.com/wiki/index.php/Atheros_AR6003_SDIO_WiFi_Integration)
+
+
+
+
 
 ### wlconf
 * [bernie chen] (http://berniechenopenvpn.blogspot.tw/2015/05/wg7833-ubuntu.html)
 
 
 
+### intro to wlan
+* [mikotek - chinese] (http://www.mikotek.com.tw/suppor/suppor_w1.htm)
+
+
+
+### NI RF Academy
+
+* [wifi - how to test] (http://www.ni.com/rf-academy/wireless/zht/)
+
+
+* [NI 802.11ax] (http://www.ni.com/white-paper/53150/zht/)
+
+
+
+
+
+
+
+
+
+
 
 
 ### Java adb push
+
+
+
+
+
+
+
+
+
 
 
 # 2017-3-10
