@@ -20,6 +20,27 @@
 * [wifi DFS test] (http://wenku.baidu.com/view/e7913617a66e58fafab069dc5022aaea998f4123.html?re=view)
 
 
+* [wifi-insider] (http://www.wifi-insider.com/wlan/dfs.htm)
+
+* [tp-link] (http://www.tp-link.com/us/faq-763.html)
+
+* [UI design - Aruba] (https://community.arubanetworks.com/t5/Controller-Based-WLANs/What-is-Dynamic-Frequency-Selection-DFS-How-to-Enable-it-What/ta-p/179170)
+
+
+* [DFS - openWRT] (https://wiki.openwrt.org/doc/techref/dfs)
+
+* [DFS - linux-wireless] (https://wireless.wiki.kernel.org/en/developers/dfs)
+
+### google: "What is DFS in wireless?"
+### google: "wifi dfs"
+
+
+### Intro
+* [wireless settings - DDWRT] (https://dd-wrt.com/wiki/index.php/QCA_wireless_settings#DTIM_Interval)
+
+
+
+
 ### atheros, google "ar6003 driver"
 http://linuxwireless.org/en/developers/Documentation/Glossary/#FullMAC
 
