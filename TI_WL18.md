@@ -3,6 +3,10 @@
 
 ### News
 
+* [WL18xx - home] (http://processors.wiki.ti.com/index.php/WL18xx)
+
+* [Wilink8 - hostapd] (http://processors.wiki.ti.com/index.php/WiLink8_WLAN_Demo:_Linux)
+
 * [WiLink 8 - wlconf] (http://www.ti.com/lit/an/swra489/swra489.pdf)
 
 * [WiLink 8 - User's Guide] (http://www.ti.com/lit/ug/swru423a/swru423a.pdf)
