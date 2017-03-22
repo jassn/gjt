@@ -36,7 +36,7 @@
 ### wifi
 * [WifiManager] (https://developer.android.com/reference/android/net/wifi/WifiManager.html)
 
-
+* [Wifi State Machine] (http://blog.csdn.net/u010961631/article/details/48291095)
 
 
 
@@ -47,6 +47,17 @@
 * [android.net.wifi] (https://developer.android.com/reference/android/net/wifi/package-summary.html)
 
 * [auto start hotspot] (http://www.beer.org/blog/index.php/2014/10/24/how-to-auto-start-wifi-hotspot-on-android-4-4-4/)
+
+
+### wifi hotspot
+* [wifi hotspot] (http://stackoverflow.com/questions/6394599/android-turn-on-off-wifi-hotspot-programmatically?noredirect=1&lq=1)
+
+* [hotspot] (http://stackoverflow.com/questions/3023226/android-2-2-wifi-hotspot-api?noredirect=1&lq=1)
+
+
+
+### Android intent
+* [Intent] (https://developer.android.com/guide/components/intents-filters.html)
 
 
 
