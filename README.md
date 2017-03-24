@@ -6,8 +6,7 @@ test of git-1.4.0
 
 * [RedMine] (http://192.168.150.171/redmine/projects)
 
-* [Weekly Report]: http://192.168.150.171/redmine/projects/swmgt/wiki/Weekly_report 
-	(optional title)
+* [Weekly Report](http://192.168.150.171/redmine/projects/swmgt/wiki/Weekly_report)
 
 
 ### Guide of RedMine
