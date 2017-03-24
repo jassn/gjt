@@ -2,11 +2,11 @@
 test of git-1.4.0
 
 ### Jet-opto
-* [Web Mail] (https://mail.jet-opto.com.tw)
+* [Web Mail]: (https://mail.jet-opto.com.tw)
 
-* [RedMine] (http://192.168.150.171/redmine/projects)
+* [RedMine]: (http://192.168.150.171/redmine/projects)
 
-* [Weekly Report] (http://192.168.150.171/redmine/projects/swmgt/wiki/Weekly_report)
+* [Weekly Report]: (http://192.168.150.171/redmine/projects/swmgt/wiki/Weekly_report)
 
 
 ### Guide of RedMine
