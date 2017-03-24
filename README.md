@@ -31,6 +31,5 @@ test of git-1.4.0
 
 
 
-https://mail.jet-opto.com.tw/mail/jasonchang.nsf?OpenDatabase
 
 == END of FILE ==
