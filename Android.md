@@ -4,39 +4,49 @@
 
 * path = HP /jet/yvon
 
-* [emulator] (https://developer.android.com/studio/run/emulator.html)
+* [emulator](https://developer.android.com/studio/run/emulator.html)
 
 
-* [build android 6.0 on ubuntu 16.04 LTS] (http://blog.csdn.net/fuchaosz/article/details/51487585)
+* [build android 6.0 on ubuntu 16.04 LTS](http://blog.csdn.net/fuchaosz/article/details/51487585)
 
 
-* [andriod directories] (http://blog.csdn.net/wulianghuan/article/details/12282853)
+* [andriod directories](http://blog.csdn.net/wulianghuan/article/details/12282853)
 
 
-* [android developer] (https://developer.android.com/develop/index.html)
+* [android developer](https://developer.android.com/develop/index.html)
 
-* [Powen Ko] (http://www.powenko.com/wordpress/?p=6042)
+* [Powen Ko](http://www.powenko.com/wordpress/?p=6042)
+
+
+
+
+### Android Build System
+* [Android Build](http://www.ibm.com/developerworks/cn/opensource/os-cn-android-build/)
+
+* [Add C and C++ Code to Your Project](https://developer.android.com/studio/projects/add-native-code.html)
+
+
 
 
 
 
 
 ### write C on Android
-* [C program] (http://blog.csdn.net/fulinwsuafcie/article/details/46688549)
+* [C program](http://blog.csdn.net/fulinwsuafcie/article/details/46688549)
 
 
-* [CSDN-fulin,,,] (http://blog.csdn.net/fulinwsuafcie/article/category/1151319)
+* [CSDN-fulin,,,](http://blog.csdn.net/fulinwsuafcie/article/category/1151319)
 
-* [android build] (http://gityuan.com/2016/03/19/android-build/)
+* [android build](http://gityuan.com/2016/03/19/android-build/)
 
 
 
 
 
 ### wifi
-* [WifiManager] (https://developer.android.com/reference/android/net/wifi/WifiManager.html)
+* [WifiManager](https://developer.android.com/reference/android/net/wifi/WifiManager.html)
 
-* [Wifi State Machine] (http://blog.csdn.net/u010961631/article/details/48291095)
+* [Wifi State Machine](http://blog.csdn.net/u010961631/article/details/48291095)
 
 
 
