@@ -1,0 +1,16 @@
+Hi Jacob,
+ Sorry, I didn't understand the issue at first, I believe I do now.
+
+ In general, when there are two AP's with the same SSID (and properties like Security/Password) the supplicant should connect to the highest signal AP.
+ Please check the RSSI level of the AP's and see if indeed the supplicant connected to the highest RSSI AP or not,
+ If for some reason the supplicant connected to lower RSSI AP, please check that both AP's configure the same (security/password) 
+ If still you believe that the supplicant behavior is incorrect, please open the supplicant debug level (add -dd to the supplicant run) and send us the logs.
+
+ Thanks
+ Shahar
+
+
+
+https://e2e.ti.com/support/wireless_connectivity/wilink_wifi_bluetooth/f/307/t/424894
+
+

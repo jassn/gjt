@@ -1,3 +1,19 @@
+
+
+# Wifi command-line
+* [Wifi command-line] (https://donnutcompute.wordpress.com/2014/04/20/connect-to-wi-fi-via-command-line)
+
+
+
+
+
+
+
+
+
+
+
+
 # WiFi Sniffer to help debug, pinpoint network problems.
 
 * [TamoSoft CommView for WiFi] (http://www.tamos.com/products/commwifi)

@@ -7,22 +7,26 @@
 
 
 
+# 2017-4-07
+* [Linux Commands](https://www.lifewire.com/linux-tutorials-4102689)
+
+
 # 2017-3-16
 ### google: 8 linux command wireless
 
 
 ### google: ti wl18 dfs
-* [TI WL18 overview] (http://processors.wiki.ti.com/index.php/WL18xx_Overview)
+* [TI WL18 overview](http://processors.wiki.ti.com/index.php/WL18xx_Overview)
 
-* [TI DFS] (http://processors.wiki.ti.com/index.php/WiLink8_Feature_Guide/AP_DFS_Master)
-
-
-* [wifi DFS test] (http://wenku.baidu.com/view/e7913617a66e58fafab069dc5022aaea998f4123.html?re=view)
+* [TI DFS](http://processors.wiki.ti.com/index.php/WiLink8_Feature_Guide/AP_DFS_Master)
 
 
-* [wifi-insider] (http://www.wifi-insider.com/wlan/dfs.htm)
+* [wifi DFS test](http://wenku.baidu.com/view/e7913617a66e58fafab069dc5022aaea998f4123.html?re=view)
 
-* [tp-link] (http://www.tp-link.com/us/faq-763.html)
+
+* [wifi-insider](http://www.wifi-insider.com/wlan/dfs.htm)
+
+* [tp-link](http://www.tp-link.com/us/faq-763.html)
 
 * [UI design - Aruba] (https://community.arubanetworks.com/t5/Controller-Based-WLANs/What-is-Dynamic-Frequency-Selection-DFS-How-to-Enable-it-What/ta-p/179170)
 
