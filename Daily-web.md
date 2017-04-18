@@ -7,11 +7,54 @@
 
 
 
-# 2017-4-07
+## 2017-4-17, camera, tw9910
+
+* [Camera interface in Android 4.2](https://www.slideshare.net/lbk003/android-builderssummit2013-kaurguptafinal)
+
+* [Android Camera and V4L2](http://blog.chinaunix.net/uid-26765074-id-3552186.html)
+
+* [Android Camera - simon xander](http://simonxanderandroid.blogspot.tw/2011/02/android-camera.html)
+
+
+* [Camera API - AOSP](https://developer.android.com/guide/topics/media/camera.html)
+
+
+
+
+
+
+
+
+
+## 2017-4-14
+capture /dev/video0 by mplayer or ffmpeg.
+
+http://gsyan888.blogspot.tw/2013/04/ffmpeg-webcam-time-lapse.html
+
+https://trac.ffmpeg.org/wiki/Capture/Webcam
+
+
+
+
+
+
+http://www.linuxintro.org/wiki/Set_up_a_Webcam_with_Linux
+
+https://www.linuxtv.org/wiki/index.php/MPlayer
+
+https://ubuntuforums.org/showthread.php?t=1939703
+
+
+
+
+
+
+
+## 2017-4-07
 * [Linux Commands](https://www.lifewire.com/linux-tutorials-4102689)
 
 
-# 2017-3-16
+## 2017-3-16
 ### google: 8 linux command wireless
 
 
