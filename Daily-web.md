@@ -6,6 +6,23 @@
 # Daily Web sites
 
 
+## 2017-4-21
+### IWifiManager setWifiEnabled
+
+* [wifi architecture](http://www.lai18.com/content/697983.html)
+
+### android setWifiEnabled
+
+* [Android Wifi](http://cooking-java.blogspot.tw/2010/07/android-wifi.html)
+
+* [WifiManager](https://developer.android.com/reference/android/net/wifi/WifiManager.html)
+
+
+
+
+
+
+
 
 ## 2017-4-17, camera, tw9910
 
@@ -71,19 +88,19 @@ https://ubuntuforums.org/showthread.php?t=1939703
 
 * [tp-link](http://www.tp-link.com/us/faq-763.html)
 
-* [UI design - Aruba] (https://community.arubanetworks.com/t5/Controller-Based-WLANs/What-is-Dynamic-Frequency-Selection-DFS-How-to-Enable-it-What/ta-p/179170)
+* [UI design - Aruba](https://community.arubanetworks.com/t5/Controller-Based-WLANs/What-is-Dynamic-Frequency-Selection-DFS-How-to-Enable-it-What/ta-p/179170)
 
 
-* [DFS - openWRT] (https://wiki.openwrt.org/doc/techref/dfs)
+* [DFS - openWRT](https://wiki.openwrt.org/doc/techref/dfs)
 
-* [DFS - linux-wireless] (https://wireless.wiki.kernel.org/en/developers/dfs)
+* [DFS - linux-wireless](https://wireless.wiki.kernel.org/en/developers/dfs)
 
 ### google: "What is DFS in wireless?"
 ### google: "wifi dfs"
 
 
 ### Intro
-* [wireless settings - DDWRT] (https://dd-wrt.com/wiki/index.php/QCA_wireless_settings#DTIM_Interval)
+* [wireless settings - DDWRT](https://dd-wrt.com/wiki/index.php/QCA_wireless_settings#DTIM_Interval)
 
 
 
@@ -107,11 +124,11 @@ http://berniechenopenvpn.blogspot.tw/2015/05/wg7833-ubuntu.html
 # 2017-3-15
 
 ### Wifi DFS
-* [dfs] (http://tc.wangchao.net.cn/bbs/detail_2004455.html)
+* [dfs](http://tc.wangchao.net.cn/bbs/detail_2004455.html)
 
-* [dfs frequency - NCC] (http://www.techbang.com/posts/13944-wi-fi-5ghz-do-you-support)
+* [dfs frequency - NCC](http://www.techbang.com/posts/13944-wi-fi-5ghz-do-you-support)
 
-* [dfs] (http://www.techbang.com/posts/24359-open-from-the-3-band-wireless-router-5ghz)
+* [dfs](http://www.techbang.com/posts/24359-open-from-the-3-band-wireless-router-5ghz)
 
 
 
@@ -124,28 +141,28 @@ http://berniechenopenvpn.blogspot.tw/2015/05/wg7833-ubuntu.html
 
 
 ### Atheros AR6003
-* [AR6003] (https://developer.ridgerun.com/wiki/index.php/Atheros_AR6003_SDIO_WiFi_Integration)
+* [AR6003](https://developer.ridgerun.com/wiki/index.php/Atheros_AR6003_SDIO_WiFi_Integration)
 
 
 
 
 
 ### wlconf
-* [bernie chen] (http://berniechenopenvpn.blogspot.tw/2015/05/wg7833-ubuntu.html)
+* [bernie chen](http://berniechenopenvpn.blogspot.tw/2015/05/wg7833-ubuntu.html)
 
 
 
 ### intro to wlan
-* [mikotek - chinese] (http://www.mikotek.com.tw/suppor/suppor_w1.htm)
+* [mikotek - chinese](http://www.mikotek.com.tw/suppor/suppor_w1.htm)
 
 
 
 ### NI RF Academy
 
-* [wifi - how to test] (http://www.ni.com/rf-academy/wireless/zht/)
+* [wifi - how to test](http://www.ni.com/rf-academy/wireless/zht/)
 
 
-* [NI 802.11ax] (http://www.ni.com/white-paper/53150/zht/)
+* [NI 802.11ax](http://www.ni.com/white-paper/53150/zht/)
 
 
 
@@ -171,12 +188,12 @@ http://berniechenopenvpn.blogspot.tw/2015/05/wg7833-ubuntu.html
 
 
 # 2017-3-10
-* [WL18xx .INI File] (http://www.ti.com/lit/an/swru422a/swru422a.pdf)
+* [WL18xx .INI File](http://www.ti.com/lit/an/swru422a/swru422a.pdf)
 
 
-* [run java from adb shell] (http://www.jianshu.com/p/42e8313c2f7a)
+* [run java from adb shell](http://www.jianshu.com/p/42e8313c2f7a)
 
-* [android - GiveMePass] (http://givemepass.blogspot.tw/2011/11/adb.html)
+* [android - GiveMePass](http://givemepass.blogspot.tw/2011/11/adb.html)
 
 
 
