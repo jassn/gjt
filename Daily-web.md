@@ -6,6 +6,22 @@
 # Daily Web sites
 
 
+
+## 2017-4-25
+### Wifi TX Power
+https://unix.stackexchange.com/questions/180365/no-option-to-up-tx-power-in-kali-linux
+
+
+
+
+
+## 2017-4-24
+### WLAN SW components
+* [Wilink R8.6 Release Notes](http://processors.wiki.ti.com/index.php/WiLink8_Release_Notes/R8.6)
+
+
+
+
 ## 2017-4-21
 ### IWifiManager setWifiEnabled
 

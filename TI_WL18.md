@@ -16,6 +16,10 @@
 * [Throughput test](http://processors.wiki.ti.com/index.php/WLAN_Throughput_Test)
 
 
+### Bluetooth - BlueDroid
+* [dut_mode_send](http://processors.wiki.ti.com/index.php/WL18xx_Bluedroid_Bluetooth_RF_Testing#Apply_the_below_patch_for_supporting_dut_mode_send_command)
+
+
 
 
 ### Android guide
