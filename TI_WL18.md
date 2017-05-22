@@ -16,8 +16,12 @@
 * [Throughput test](http://processors.wiki.ti.com/index.php/WLAN_Throughput_Test)
 
 
-### Bluetooth - BlueDroid
+### Bluetooth - WL18xx Bluedroid Bluetooth RF Testing
 * [dut_mode_send](http://processors.wiki.ti.com/index.php/WL18xx_Bluedroid_Bluetooth_RF_Testing#Apply_the_below_patch_for_supporting_dut_mode_send_command)
+
+* [Bluetooth Stack](http://www.ti.com/tool/tibluetoothstack-sdk)
+
+* [Bluedroid Overview](https://read01.com/RK5jng.html)
 
 
 

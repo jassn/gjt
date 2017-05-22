@@ -1,10 +1,9 @@
 # gjt
 test of git-1.4.0
 
-### Jet-opto
-* [Web Mail](https://mail.jet-opto.com.tw)
+### Redmine
 
-* [RedMine](http://192.168.150.171/redmine/projects)
+* [Projects](http://192.168.150.171/redmine/projects)
 
 * [Weekly Report](http://192.168.150.171/redmine/projects/swmgt/wiki/Weekly_report)
 
@@ -28,7 +27,7 @@ test of git-1.4.0
 ### git and ssh
 * [GitHub by NCKU](http://wiki.csie.ncku.edu.tw/github)
 
-
+* [git patch](http://blog.csdn.net/maybe_windleave/article/details/8703778)
 
 
 
