@@ -6,6 +6,32 @@
 # Daily Web sites
 
 
+## 2017-6-02, AVDTP of Bluetooth
+http://blog.sina.com.cn/s/blog_69b5d2a50101elze.html
+
+http://www.bkjia.com/Androidjc/865374.html
+
+https://android.googlesource.com/platform/system/bt/
+
+https://source.android.com/devices/bluetooth
+
+* [A2DP Introduction](http://blog.csdn.net/wendell_gong/article/details/29841967)
+
+* [BlueZ](http://www.bluez.org/category/news/)
+
+
+https://wiki.wireshark.org/Bluetooth
+
+http://blog.sina.com.cn/s/blog_69b5d2a50101elze.html
+
+
+## 2017-6-01, Add log to Android 
+http://www.bkjia.com/Androidjc/543778.html
+
+
+
+
+
 
 ## 2017-4-25
 ### Wifi TX Power
