@@ -3,6 +3,8 @@
 
 ### News
 
+* [Release Note R8.7 SP1](http://software-dl.ti.com/ecs/WiLink8/SP/R8_7_SP1/exports/release_notes_R8_7_SP1.html)
+
 * [WL18xx - home](http://processors.wiki.ti.com/index.php/WL18xx)
 
 * [Wilink8 - hostapd](http://processors.wiki.ti.com/index.php/WiLink8_WLAN_Demo:_Linux)
