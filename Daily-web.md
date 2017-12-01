@@ -6,6 +6,88 @@
 # Daily Web sites
 
 
+## 2017-12-01
+
+* [Example of Bluetooth communication between Android and Linux](http://www.denisigo.com/2014/08/example-of-bluetooth-communication-between-android-and-linux/
+
+
+
+
+eBooks
+* [android internals](https://www.pdfdrive.net/android-internals-sm5790975.html)
+
+
+netd
+* [ndc - AOSP](https://source.android.com/devices/architecture/hidl/network-stack)
+
+* [android netd](http://blog.csdn.net/xiaokeweng/article/details/8130218)
+
+* [NativeDaemonConnector and MountService](http://blog.csdn.net/kc58236582/article/details/47447153)
+
+* [Android 4.1 netd](http://blog.sina.com.cn/s/blog_5674d1880101c0yy.html)
+
+
+
+
+
+
+
+
+Miracast
+* [SurfaceFlinger and Miracast](http://eeepage.info/android-miracast/)
+
+* [public class WifiP2pManager](https://developer.android.com/reference/android/net/wifi/p2p/WifiP2pManager.html)
+
+* [WifiP2pService work flow](http://www.voidcn.com/article/p-sduqific-qt.html)
+
+* [WifiP2pService startup and p2p](http://www.wenwenti.info/article/647653)
+
+* [android4.0.3 wifi direct](http://blog.csdn.net/eastmoon502136/article/details/8721724)
+
+
+
+
+
+
+Repo and git
+* [Repo and git](http://eeepage.info/git-repository-notes/)
+
+
+
+
+
+
+Android Wifi hotspot
+* [wifi hotspot](http://blog.csdn.net/csdn_of_coder/article/details/52423389)
+ 
+* [Android turn on/off wifi hotspot](https://stackoverflow.com/questions/6394599/android-turn-on-off-wifi-hotspot-programmatically)
+
+
+
+
+
+Bluetooth RFCOMM
+* [ubuntu and RPi](http://chaoyunotebook.blogspot.tw/2015/10/ubuntu-raspberry-pi-serial-port.html)
+
+
+* [Bluetooth signal strength](https://ubuntuforums.org/showthread.php?t=1420972)
+
+
+* [How to check Bluetooth connection strength in OS X](https://www.cnet.com/news/reddit-memes-hell-in-a-cell/)
+
+
+* [get RSSI values from Bluetooth beacon](https://askubuntu.com/questions/902598/how-do-we-get-rssi-values-from-bluetooth-beacons-estimote-to-be-specific-in-li)
+
+
+
+
+
+
+
+
+
+
+
 ## 2017-6-02, AVDTP of Bluetooth
 http://blog.sina.com.cn/s/blog_69b5d2a50101elze.html
 
