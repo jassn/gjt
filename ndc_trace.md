@@ -4,7 +4,24 @@
 ## Requirements
 
 
-show code
+### startSoftApWithConfig
+
+
+
+FILE --> frameworks/opt/net/wifi/service/java/com/android/server/wifi/WifiStateMachine.java
+@@@@@        startSoftApWithConfig  __call startAccessPoint
+
+
+### startAccessPoint
+
+ndc softap set ...
+FILE  --> frameworks/base/services/core/java/com/android/server/NetworkManagementService.java
+@@@@@       startAccessPoint  __call  SoftapController::setSoftap
+
+
+* [Android netd ndc](http://blog.chinaunix.net/uid-23381466-id-5112474.html)
+* [NativeDaemonConnector](http://gaozhipeng.me/posts/nativedaemonconnector_source_code/)
+
 
 
 
