@@ -11,8 +11,21 @@ Hostapd
 
 
 
+### Wi-Fi P2P
+* Google: "P2pEnabledState"
+
+* [Wifi P2P workflow](http://blog.csdn.net/zjngogo/article/details/48299103)
+
+* [Wifi P2P scan](http://blog.csdn.net/zjngogo/article/details/47147235)
+
+* [Wifi P2P WifiP2pService](http://blog.csdn.net/hanhan1016/article/details/47725869)
+
+
+
 
 ### Miracast
+
+* [Miracast - eeepage](http://eeepage.info/android-miracast/)
 
 * [Miracast vs DLNA](http://eeepage.info/miracast-chromecast/)
 
@@ -21,6 +34,19 @@ Hostapd
 * [Miracast - iWave](http://www.iwavesystems.com/wireless-devices-to-seamless-videodisplay)
 
 
+
+
+### ndc - NativeDeamonConnector
+* [netd](http://blog.csdn.net/xiaokeweng/article/details/8130218)
+
+* [NativeDaemonConnector](http://gaozhipeng.me/posts/nativedaemonconnector_source_code/)
+
+
+
+
+
+
+### WPA
 
 * [wpa_supplicant](http://eeepage.info/wpa_supplicant/)
 
@@ -51,6 +77,11 @@ Hostapd
 * [Parcelable - AOSP](https://developer.android.com/reference/android/os/Parcelable.html)
 
 
+
+
+
+### 802.11
+* [802.11 info](http://eeepage.info/802-11-info/)
 
 
 
